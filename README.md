@@ -18,8 +18,8 @@ planning, and safety.
 
 These are jupyter notebook files. You should have jupyter installed on your machine.
 
-### To run first part: ENSF612_Spark_Project_1.ipynb
-Use 'deerfoot.csv' file
+### ENSF612_Spark_Project_1.ipynb requires
+'deerfoot.csv' file
 
-### To run second part: ENSF612_Spark_Project_2.ipynb
-Use 'deerfoot_part2-1.csv', 'eng-daily-01012013-12312013.csv' and 'eng-daily-01012014-12312014.csv' files.
+### ENSF612_Spark_Project_2.ipynb requires
+'deerfoot_part2-1.csv', 'eng-daily-01012013-12312013.csv' and 'eng-daily-01012014-12312014.csv' files.
