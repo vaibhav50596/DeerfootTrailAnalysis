@@ -12,3 +12,14 @@ expanded to predict commute times for major roadways across the country in real-
 Besides providing the project team with an opportunity to learn and apply Spark concepts,
 the results of the project could have real-world applications in transportation forecasting,
 planning, and safety.
+
+
+## How to run?
+
+These are jupyter notebook files. You should have jupyter installed on your machine.
+
+### To run first part: ENSF612_Spark_Project_1.ipynb
+Use 'deerfoot.csv' file
+
+### To run second part: ENSF612_Spark_Project_2.ipynb
+Use 'deerfoot_part2-1.csv', 'eng-daily-01012013-12312013.csv' and 'eng-daily-01012014-12312014.csv' files.
